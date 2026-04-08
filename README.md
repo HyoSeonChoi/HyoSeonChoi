@@ -1,4 +1,4 @@
-<details open>
+<details>
 <summary>🇰🇷 한국어</summary>
 
 # Hi there 👋
@@ -62,7 +62,7 @@
 
 ---
 
-<details>
+<details open>
 <summary>🇺🇸 English</summary> 
 
 # Hi there 👋
