@@ -1,7 +1,7 @@
 <details>
 <summary>🇰🇷 한국어</summary>
+<br>
 
-# Hi there 👋
 뇌파(EEG)와 감정 모델링을 중심으로 AI 연구를 수행했습니다.  
 **Research to Product**: 연구실 안에서 잘 되는 AI를 넘어, 실제 환경에서 쓰이는 AI로 나아가고자 합니다.  
 `AI 데이터 신뢰성` · `도메인 기반 AI` · `감성 컴퓨팅(Affective Computing)`  
