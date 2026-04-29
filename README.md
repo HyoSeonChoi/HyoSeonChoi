@@ -52,7 +52,7 @@
 - **국제 학회 포스터 발표** | ICPR 2024 &nbsp; 인도, 콜카타 `2024.12.01—2024.12.05`  
 - **공부한 책**  
     - 『밑바닥부터 시작하는 딥러닝 1, 2』 [인하대학교 AI 동아리 AiDL 스터디](https://www.youtube.com/@aidl6288/playlists)
-    - 『혼자 공부하는 머신러닝+딥러닝』 ,『Do It! 딥러닝』
+    - 『혼자 공부하는 머신러닝+딥러닝』,『Do It! 딥러닝』,『파이토치로 배우는 LLM&AI』
 
 ## 연락처
 
@@ -118,7 +118,7 @@ Proposed a data cleansing framework that identifies and removes unreliable EEG-l
 - **International Conference Poster Presentation** | ICPR 2024 &nbsp; Kolkata, India `2024.12.01—2024.12.05`
 - **Books I've Studied**
     - *Deep Learning from Scratch 1, 2* — [Inha Univ. AI Club AiDL Study](https://www.youtube.com/@aidl6288/playlists)
-    - *Machine Learning + Deep Learning by Yourself*, *Do It! Deep Learning*
+    - *Machine Learning + Deep Learning by Yourself*, *Do It! Deep Learning*, *AI and ML for Coders in Pytorch/Laurence Moroney*
 
 ## Contact
 
